@@ -1,0 +1,22 @@
+Inicio ejercicio 5.txt
+	Definir edad, x mayores,n menores,sexo,hombre,mujer
+	Escribir "cuantas edades y sexo desea ingresar"
+	Leer edad, sexo
+	Contador menor de edad <- 0
+	contador mayor de edad <-0
+	Escribir "ingrese la edad"
+	Leer edad
+	Escribir "ingrese sexo de la persona"
+	Leer sexo
+	si sexo = mujer entonces
+		contador <- menor de edad y <- mayor de edad 
+		edad = mujer,edad >= 18 entonces
+		Escribir "hay x mujeres mayores de edad"
+	sino
+	si sexo = hombre entonces
+		contador <- menor de edad y <- mayor de edad
+		n menores = hombre,edad < 18 entonces
+		Escribir "hay n hombres menores de edad"
+	finsi
+	 
+Fin algoritmo
